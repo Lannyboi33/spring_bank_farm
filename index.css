@@ -1,0 +1,50 @@
+* {
+    font-family: lato;
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Header */
+
+header {
+    padding: 0px 20px;
+    background-color: #79221F;
+    color: white;
+    height: 75px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-contact {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+.header-contact-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px
+}
+
+.header-contact-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+/* Nav */
+
+nav {
+    height: 300px;
+}
+
+nav > img {
+    height: 200px;
+    width: 100%;
+    
+    object-fit: cover;
+}

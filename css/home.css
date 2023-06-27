@@ -1,0 +1,6 @@
+.banner {
+    height: 400px;
+    background-image: url("../images/blueberry_background.jpg");
+    background-size: cover;
+    filter: brightness(80%);
+}
